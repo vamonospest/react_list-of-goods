@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,iBAGE,QAAS,CACT,SACF,CAEA,KACE,qCACF,CAEA,GACE,cACF","file":"main.d0e8b332.chunk.css","sourcesContent":["*,\n*::after,\n*::before {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  background-color: rgba(95, 158, 160, 0.36);\n}\n\nth {\n  cursor: pointer;\n}\n"]}
